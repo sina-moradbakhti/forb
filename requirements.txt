@@ -1,0 +1,3 @@
+tensorflow>=2.0  # TensorFlow for model inference (optional if not using PyTorch)
+transformers     # Hugging Face Transformers for NLP models
+tf-keras        # Compatible Keras package
